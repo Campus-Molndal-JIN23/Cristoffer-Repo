@@ -4,7 +4,6 @@ En dags (repo) övning 2023-02-22 om GIT/Samarbete
 Upd. 2023-02-22 09:17 Repo Skapad
 ----------------------------------
 
-
 Vad heter du? 
 * Cristoffer Östberg
 
@@ -31,3 +30,6 @@ Vad är din favoritdryck?
 * Citronlemonad!! Huuuja! Skulle kunna tänka mig några just nu faktiskt!
 
 Vad är ditt favoritprogram?
+
+
+![GalenHundBild](index.jpg)
