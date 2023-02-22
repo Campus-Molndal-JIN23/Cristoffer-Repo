@@ -28,6 +28,6 @@ Vad är din favoritmat?
 * Tacopaj
 
 Vad är din favoritdryck?
-*
+* Citronlemonad!! Huuuja! Skulle kunna tänka mig några just nu faktiskt!
 
 Vad är ditt favoritprogram?
